@@ -1,0 +1,6 @@
+gen
+misc
+*.gz
+.stignore
+Manifest.toml
+.vscode
